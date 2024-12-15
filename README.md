@@ -13,7 +13,7 @@ This project implements Named Entity Recognition (NER) using Decison Tree, SVM a
 
 ### Prerequisites
 Ensure you have the following installed:
-- Python (>= 3.8)(No issue for 3.12)
+- Python (>= 3.8)(No issue for 3.12 and 3.11)
 - Required libraries:
   ```bash
   pip install pandas numpy torch transformers evaluate safetensors scikit-learn
