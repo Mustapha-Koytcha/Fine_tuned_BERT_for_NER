@@ -1,6 +1,6 @@
 # Named Entity Recognition (NER) Project
 
-This project implements Named Entity Recognition (NER) using Decison Tree, SVM and a transformer-based model (e.g., BERT). The workflow involves data preprocessing, tokenization, label alignment, and model evaluation. It is designed to analyze and extract named entities from text, with a focus on cybersecurity-related data.
+This project implements Named Entity Recognition (NER) using Decison Tree, SVM and a transformer-based model (e.g., BERT). The workflow involves data preprocessing, tokenization, encoding, label alignment, and model evaluation. It is designed to analyze and extract named entities from text, with a focus on cybersecurity-related data.
 
 ## Table of Contents
 - [Setup Instructions](#setup-instructions)
